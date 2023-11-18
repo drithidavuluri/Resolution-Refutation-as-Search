@@ -1,8 +1,5 @@
 Resolution-Refutation Theorem Prover
 
->> Introduction
-   This repository contains Python implementations of a propositional logic theorem prover based on the resolution-refutation algorithm. The prover is presented as a search problem, with two different search strategies: uniform search and greedy search. The goal is to determine whether a given knowledge base (KB) entails a provided query.
-
 >> File Structure
    greedy.py: Python script implementing the resolution-refutation algorithm with a greedy search strategy.
    uniform.py: Python script implementing the resolution-refutation algorithm with a uniform search strategy.
